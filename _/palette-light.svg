@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1068" height="132" viewBox="0 0 1068 132" fill="none">
+<rect x="0.5" y="0.5" width="167" height="75" rx="10" fill="#8979FF" stroke="#CBC6C6" stroke-opacity="0.8"/>
+<text x="84.0" y="100.0" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#202020" text-anchor="middle">Nami Violet</text>
+<text x="84.0" y="120.0" font-family="ui-monospace,SFMono-Regular,Consolas,Menlo,monospace" font-size="13" font-weight="400" fill="#6F6B6B" text-anchor="middle">#8979FF</text>
+<rect x="180.5" y="0.5" width="167" height="75" rx="10" fill="#3CC3DF" stroke="#CBC6C6" stroke-opacity="0.8"/>
+<text x="264.0" y="100.0" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#202020" text-anchor="middle">Nami Cyan</text>
+<text x="264.0" y="120.0" font-family="ui-monospace,SFMono-Regular,Consolas,Menlo,monospace" font-size="13" font-weight="400" fill="#6F6B6B" text-anchor="middle">#3CC3DF</text>
+<rect x="360.5" y="0.5" width="167" height="75" rx="10" fill="#FF928A" stroke="#CBC6C6" stroke-opacity="0.8"/>
+<text x="444.0" y="100.0" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#202020" text-anchor="middle">Nami Coral</text>
+<text x="444.0" y="120.0" font-family="ui-monospace,SFMono-Regular,Consolas,Menlo,monospace" font-size="13" font-weight="400" fill="#6F6B6B" text-anchor="middle">#FF928A</text>
+<rect x="540.5" y="0.5" width="167" height="75" rx="10" fill="#E3B843" stroke="#CBC6C6" stroke-opacity="0.8"/>
+<text x="624.0" y="100.0" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#202020" text-anchor="middle">Nami Gold</text>
+<text x="624.0" y="120.0" font-family="ui-monospace,SFMono-Regular,Consolas,Menlo,monospace" font-size="13" font-weight="400" fill="#6F6B6B" text-anchor="middle">#E3B843</text>
+<rect x="720.5" y="0.5" width="167" height="75" rx="10" fill="#202020" stroke="#CBC6C6" stroke-opacity="0.8"/>
+<text x="804.0" y="100.0" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#202020" text-anchor="middle">Nami Black</text>
+<text x="804.0" y="120.0" font-family="ui-monospace,SFMono-Regular,Consolas,Menlo,monospace" font-size="13" font-weight="400" fill="#6F6B6B" text-anchor="middle">#202020</text>
+<rect x="900.5" y="0.5" width="167" height="75" rx="10" fill="#DFDBDB" stroke="#CBC6C6" stroke-opacity="0.8"/>
+<text x="984.0" y="100.0" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#202020" text-anchor="middle">Nami Light</text>
+<text x="984.0" y="120.0" font-family="ui-monospace,SFMono-Regular,Consolas,Menlo,monospace" font-size="13" font-weight="400" fill="#6F6B6B" text-anchor="middle">#DFDBDB</text>
+</svg>
