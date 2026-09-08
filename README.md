@@ -7,7 +7,7 @@
 
 # Media Kit
 
-**The official assets and guidelines for representing Nami** across publications,
+**The official assets and guidelines for representing nami** across publications,
 integrations, campaigns, events, and partnership materials.
 
 [<img src="_/btn-download.svg" alt="Download the Media Kit" width="264">](https://docs.nami.fi/nami.zip)
@@ -20,13 +20,13 @@ Use the files included in the official Media Kit to ensure visual consistency ac
 application.
 
 > [!NOTE]
-> Use **`Nami`** when referring to the brand, company, ecosystem, or protocol.
+> Use **`nami`** when referring to the brand, company, ecosystem, or protocol.
 > Reserve **`NAMI`** for references to the token.
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="_/naming-dark.svg">
-  <img alt="Nami: brand, company, ecosystem, protocol. NAMI: the token." src="_/naming-light.svg" width="720">
+  <img alt="nami: brand, company, ecosystem, protocol. NAMI: the token." src="_/naming-light.svg" width="720">
 </picture>
 </div>
 
@@ -48,7 +48,7 @@ application.
 
 ## Logo System
 
-The Nami logo system includes the primary wordmark, the brand symbol, and monochrome variants
+The nami logo system includes the primary wordmark, the brand symbol, and monochrome variants
 for different backgrounds and formats.
 
 ### Primary Logo
@@ -164,11 +164,11 @@ Below these sizes, use the symbol on its own rather than a lockup.
 > [!IMPORTANT]
 > The published docs page states that clear space and minimum sizes apply but does not yet list
 > numeric values. The figures above are working defaults derived from the asset geometry.
-> Confirm them with the Nami team before external distribution.
+> Confirm them with the nami team before external distribution.
 
 ## Incorrect Usage
 
-Preserve the original appearance of every Nami brand asset.
+Preserve the original appearance of every nami brand asset.
 
 <div align="center">
 <picture>
@@ -189,7 +189,7 @@ Avoid:
 
 ## Partnership Applications
 
-When displaying Nami alongside another organization:
+When displaying nami alongside another organization:
 
 - give each logo comparable visual prominence;
 - preserve the clear space required by both brands;
@@ -206,13 +206,13 @@ Combined partnership lockups should only be created using approved assets and la
 
 ## Color Palette
 
-The official Nami color palette is provided below. Use the specified color values across
+The official nami color palette is provided below. Use the specified color values across
 digital, printed, and promotional materials.
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="_/palette-dark.svg">
-  <img alt="Nami color palette" src="_/palette-light.svg" width="900">
+  <img alt="nami color palette" src="_/palette-light.svg" width="900">
 </picture>
 </div>
 
@@ -242,7 +242,7 @@ use the supplied SVG files.</sub>
 
 ## Typography
 
-Nami's official typefaces support a consistent visual identity across interfaces,
+nami's official typefaces support a consistent visual identity across interfaces,
 communications, and marketing materials.
 
 Use the designated primary typeface for headings and prominent brand applications. Use the
@@ -264,22 +264,22 @@ referenced but not yet specified.</sub>
 
 ### Short Description
 
-> Nami is a unified multichain DeFi protocol that coordinates trading, liquidity, lending, and
+> nami is a unified multichain DeFi protocol that coordinates trading, liquidity, lending, and
 > governance across networks.
 
 ### Extended Description
 
-> Nami is a unified multichain DeFi protocol designed to operate across networks as a single
+> nami is a unified multichain DeFi protocol designed to operate across networks as a single
 > coordinated system. Its architecture connects trading, liquidity, lending, governance, and
 > automation while coordinating markets, rewards, and user operations across supported chains.
 
 ## Brand Asset Usage
 
-Nami brand assets may be used to reference the protocol accurately in editorial coverage,
+nami brand assets may be used to reference the protocol accurately in editorial coverage,
 research, integrations, listings, and approved partnership communications.
 
 Their use must not imply an endorsement, sponsorship, partnership, or official affiliation that
-has not been confirmed by Nami team.
+has not been confirmed by nami team.
 
 For usage requests or brand-related questions, contact **[info@nami.fi](mailto:info@nami.fi)**.
 
@@ -317,6 +317,6 @@ assets; always reach for the files in the table above.
 **[docs.nami.fi](https://docs.nami.fi)** · [Telegram](https://t.me/namidefi) · [X](https://x.com/namidefi) · [Discord](https://discord.gg/namidefi)
 
 <sub>Mirrors <a href="https://docs.nami.fi/reference/resources/media-kit">docs.nami.fi/reference/resources/media-kit</a>.
-Brand assets © Nami. Use is subject to the guidelines above.</sub>
+Brand assets © nami. Use is subject to the guidelines above.</sub>
 
 </div>

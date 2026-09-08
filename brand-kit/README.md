@@ -1,6 +1,6 @@
 # Brand kit
 
-**Official Nami brand assets, exactly as shipped in [nami.zip](https://docs.nami.fi/nami.zip).**
+**Official nami brand assets, exactly as shipped in [nami.zip](https://docs.nami.fi/nami.zip).**
 These are the authoritative files. Do not edit, redraw, or re-export them. See the usage rules
 in the [Media Kit](../README.md).
 
